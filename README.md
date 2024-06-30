@@ -16,3 +16,9 @@ NSThreadDemo is a simple iOS application demonstrating the usage of threads and 
 
 
 <img src="https://github.com/Sumit4482/NSThreadDemo/assets/61246873/bb871f2c-221a-45dc-b1e6-e4182dad1467" alt="image" style="width: 200px; height: 400px;">
+
+
+## What's Multithreading 
+
+
+<img src="https://github.com/Sumit4482/NSThreadDemo/assets/61246873/ce4fd7ae-9c97-4f58-adee-24e823bfaccc" alt="image" style="width: 700px; height: 400px;">
